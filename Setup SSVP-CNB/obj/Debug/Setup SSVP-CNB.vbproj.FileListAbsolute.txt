@@ -1,0 +1,26 @@
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.exe.config
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.exe
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.pdb
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.xml
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\obj\Debug\Setup_SSVP_CNB.SetupSSVP.resources
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\obj\Debug\Setup_SSVP_CNB.Resources.resources
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.vbproj.GenerateResource.Cache
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.exe
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.xml
+C:\Users\luciano.vieira\AppData\Local\Temporary Projects\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.pdb
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.exe.config
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.exe
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.pdb
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Debug\Setup SSVP-CNB.xml
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Setup_SSVP_CNB.SetupSSVP.resources
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Setup_SSVP_CNB.Resources.resources
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.vbproj.GenerateResource.Cache
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.exe
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.xml
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.pdb
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\obj\Debug\Setup SSVP-CNB.vbproj.ResolveComReference.cache
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Setup\Setup SSVP-CNB.exe.config
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Setup\Setup SSVP-CNB.exe
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Setup\Setup SSVP-CNB.pdb
+C:\Fontes\SSVP_Projeto\Setup\Setup SSVP-CNB\bin\Setup\Setup SSVP-CNB.xml

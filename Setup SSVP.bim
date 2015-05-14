@@ -1,0 +1,252 @@
+; -------------------------------------------------
+;  Warning! Do not modify this file by hand.
+;  If the format is not respected, the installer
+;  may misbehave when running on the user's PC.
+;  Please use BIM to make any changes.
+; -------------------------------------------------
+;  Last modified: 08/09/2014 (DMY) at 17:57:38
+; -------------------------------------------------
+[Header]
+FileID = Bytessence Install Maker
+FileVersion = 5
+; -------------------------------------------------
+[GeneralInformation]
+ProgramName = SSVP-CNB - Desktop
+ProgramVersion = 1.0
+ProgramWebsite = www.cyallsystem.eti.net
+WebsiteCfgShowAddress = 1
+WebsiteCfgRunForUser = 1
+SupportEmail = lucianovs@hotmail.com.br
+CompanyName = Luciano Vieira
+CopyrightString = Copyright (c) Luciano Vieira
+OutputFile = C:\Fontes\SSVP_Projeto\Instaladores\DeskTop_Setup.exe
+IconFile = 
+InstallerBandText = Sistema SSVP-CNB Gerencial Setup
+InstallerWindowTitle = Sistema SSVP-CNB Gerencial - V.1.0 Setup
+CompressionAlgo = BLP/LZMA
+CompressionLevel = 3
+; -------------------------------------------------
+[InstallerExeInfo]
+CompanyName = 
+Copyright = 
+Email = 
+FileDescription = 
+ProductName = 
+ProductVersion = 
+Website = 
+MajorHigh = 1
+MajorLow = 0
+MinorHigh = 0
+MinorLow = 0
+; -------------------------------------------------
+[SystemRequirements]
+Win95 = 1
+WinNT4 = 1
+Win98 = 1
+WinMe = 1
+Win2000 = 1
+WinXP = 1
+Win2003 = 1
+WinVista = 1
+Win2008 = 1
+Win7 = 1
+Win8 = 1
+Win2012 = 1
+InstallerType = 0
+RequireAdminRights = 1
+DotNETVersion = 0
+DotNETVisitWebpage = 0
+DotNETWebpageAddress = http://
+DotNETRunForUser = 1
+IEVersion = 0
+IEVisitWebpage = 0
+IEWebpageAddress = http://
+IERunForUser = 1
+CheckSysRequirements = 0
+CheckCPUSpeed = 0
+CPUSpeedMin = 133
+CPUSpeedRec = 266
+CheckMemSize = 0
+MemSizeMin = 64
+MemSizeRec = 128
+CheckExtraSpace = 0
+ExtraSpaceScope = 0
+ExtraSpaceMin = 8
+ExtraSpaceRec = 16
+FailMinimumReqs = 1
+FailRecommendedReqs = 0
+RequireExistingItems = 0
+CheckForInstances = 0
+; -------------------------------------------------
+[RegistryVars]
+CreateRegistryVars = 0
+; -------------------------------------------------
+[FileConfig]
+ReplaceStatus = 0
+DefaultInstPath = <ProgramFiles>\<ProgramName>\
+EnforceDefaultInstPath = 0
+ForceInstMode = 0
+; -------------------------------------------------
+[DetectExistingInstallations]
+PromptUninstallExisting = 0
+; -------------------------------------------------
+[LookAndFeel]
+InstallerType = 0
+WizardImage = 
+HeaderImage = 
+HeaderTitleTextFont = Tahoma
+HeaderTitleTextSize = 8
+HeaderTitleTextFlags = 0
+HeaderTitleTextPosX = 10
+HeaderTitleTextPosY = 13
+HeaderTitleTextColor = 0
+HeaderTitleTextShadow = 0
+HeaderTitleTextShadowColor = 14145495
+HeaderTextFont = Tahoma
+HeaderTextSize = 8
+HeaderTextFlags = 0
+HeaderTextPosX = 15
+HeaderTextPosY = 34
+HeaderTextColor = 0
+HeaderTextShadow = 0
+HeaderTextShadowColor = 14145495
+ShowInformation = 1
+ShowLicense = 1
+ShowCopyrightNotice = 1
+BKUseGradient = 1
+BKUsePicture = 0
+BKFirstColor = 8421504
+BKSecondColor = 16777215
+BKTextColor = 15132390
+BKVertical = 1
+BKHorizontal = 0
+BKPicturePath = 
+BKText = 
+BKShowCopyright = 0
+; -------------------------------------------------
+[Localization]
+0 = 1046
+1 = 1029
+2 = 1043
+3 = 1033
+4 = 1036
+5 = 1031
+6 = 1037
+7 = 1032
+8 = 1040
+9 = 1040
+10 = 1045
+11 = 1048
+12 = 1049
+13 = 2052
+14 = 2052
+15 = 1051
+16 = 3082
+17 = 1053
+18 = 1028
+19 = 1055
+20 = 1058
+; -------------------------------------------------
+[InstallerSettings]
+CreateGroup = 1
+CustomStartMenuGroup = <ProgramName>
+CreateUninstallShortcut = 1
+CustomStartMenuUninstall = Uninstall <ProgramName>
+CreateInternetLink = 1
+CustomStartMenuWebLink = Website
+CreateSMProgramShortcut = 0
+SMProgramOutputName = 
+SMProgramFilePath = 
+SMProgramIconPath = 
+SMProgramIconIndex = 0
+SMProgramCommandLine = 
+SMProgramStartIn = 
+SMProgramComment = 
+SMProgramComponentID = 0
+CreateSMDocumentationShortcut = 0
+SMDocumentationOutputName = 
+SMDocumentationFilePath = 
+SMDocumentationIconPath = 
+SMDocumentationIconIndex = 0
+SMDocumentationCommandLine = 
+SMDocumentationStartIn = 
+SMDocumentationComment = 
+SMDocumentationComponentID = 0
+CreateSMReadmeShortcut = 0
+SMReadmeOutputName = 
+SMReadmeFilePath = 
+SMReadmeIconPath = 
+SMReadmeIconIndex = 0
+SMReadmeCommandLine = 
+SMReadmeStartIn = 
+SMReadmeComment = 
+SMReadmeComponentID = 0
+CreateSMLicenseShortcut = 0
+SMLicenseOutputName = 
+SMLicenseFilePath = 
+SMLicenseIconPath = 
+SMLicenseIconIndex = 0
+SMLicenseCommandLine = 
+SMLicenseStartIn = 
+SMLicenseComment = 
+SMLicenseComponentID = 0
+ShowRestartComputerCheckbox = 0
+LaunchProgramCheckbox = 0
+LaunchProgramProgramPath = 
+LaunchProgramCommandLine = 
+LaunchProgramRunMode = 0
+LaunchProgramRunHidden = 0
+LaunchProgramWaitUntilQuit = 0
+LaunchProgramRunForUser = 1
+LaunchProgramComponentID = 0
+ViewDocumentationCheckbox = 0
+ViewDocumentationProgramPath = 
+ViewDocumentationCommandLine = 
+ViewDocumentationRunMode = 1
+ViewDocumentationRunHidden = 0
+ViewDocumentationWaitUntilQuit = 0
+ViewDocumentationRunForUser = 1
+ViewDocumentationComponentID = 0
+ViewReadmeCheckbox = 0
+ViewReadmePath = 
+ViewReadmeCommandLine = 
+ViewReadmeRunMode = 1
+ViewReadmeRunHidden = 0
+ViewReadmeWaitUntilQuit = 0
+ViewReadmeRunForUser = 1
+ViewReadmeComponentID = 0
+ViewLicenseCheckbox = 0
+ViewLicensePath = 
+ViewLicenseCommandLine = 
+ViewLicenseRunMode = 1
+ViewLicenseRunHidden = 0
+ViewLicenseWaitUntilQuit = 0
+ViewLicenseRunForUser = 1
+ViewLicenseComponentID = 0
+VisitWebsiteCheckbox = 0
+VisitWebsiteAddress = http://
+VisitWebsiteRunForUser = 1
+; -------------------------------------------------
+[UninstallerSettings]
+CreateUninstaller = 1
+CreateAddRemoveEntry = 1
+AddRemoveEntryName = <ProgramName> <ProgramVersion>
+AddRemoveProgramName = <ProgramName>
+AddRemoveProgramVersion = <ProgramVersion>
+UninstallerIconPath = 
+UninstRestartPC = 0
+CheckForInstances = 0
+; -------------------------------------------------
+[UninstallerExeInfo]
+CompanyName = 
+Copyright = 
+Email = 
+FileDescription = 
+ProductName = 
+ProductVersion = 
+Website = 
+MajorHigh = 1
+MajorLow = 0
+MinorHigh = 0
+MinorLow = 0
+; -------------------------------------------------
