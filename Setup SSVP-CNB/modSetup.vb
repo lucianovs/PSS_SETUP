@@ -27,12 +27,16 @@ Module modSetup
     Public Function getNomeArquivo(fArquivo As String) As String
         Dim nPos As Integer
 
-        nPos = InStr(fArquivo, ".", vbTextCompare)
-
+        nPos = InStr(fArquivo, "_", vbTextCompare)
         If nPos > 0 Then
             getNomeArquivo = Microsoft.VisualBasic.Left(fArquivo, nPos - 1)
         Else
-            getNomeArquivo = fArquivo
+            nPos = InStr(fArquivo, ".", vbTextCompare)
+            If nPos > 0 Then
+                getNomeArquivo = Microsoft.VisualBasic.Left(fArquivo, nPos - 1)
+            Else
+                getNomeArquivo = fArquivo
+            End If
         End If
         getNomeArquivo = UCase(getNomeArquivo)
     End Function
